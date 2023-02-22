@@ -5,7 +5,7 @@
 }
 
 .background {
-    background-color: #021018;
+    background-color: #fffff;
     height: 100vh;
     padding-top: 1px;
 }
@@ -39,7 +39,7 @@
 }
 
 .tile {
-    border: 1px solid white;
+    border: 1px solid black;
     min-width: 100px;
     min-height: 100px;
     display: flex;
